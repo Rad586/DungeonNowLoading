@@ -326,6 +326,7 @@
     "item.dungeonnowloading.mendstone_pickaxe.tooltip.ability_description": "使钻石矿石掉落修补晶而非钻石",
     "item.dungeonnowloading.item_scraps": "物品碎片",
     "item.dungeonnowloading.item_scraps.named": "物品碎片：%s",
+    "item.dungeonnowloading.item_scraps.scrap": "碎片",
     "item.dungeonnowloading.item_scraps.tooltip.reconstruct": "工具可在修补台用修补石或%s修复",
     "item.dungeonnowloading.item_scraps.tooltip.reconstruct.detail1": "在修补台使用以下物品以修复：",
     "item.dungeonnowloading.item_scraps.tooltip.reconstruct.detail2": "修补石/修补晶或%s",
